@@ -1,5 +1,5 @@
 # K-Means Clustering from Scratch on FIFA-20 Dataset
-Eksperimen pembuatan algoritma machine learning unsupervised dengan menggunakan metode K-Means dari awal pada dataset FIFA-20.
+Eksperimen pembuatan algoritma machine learning unsupervised dengan menggunakan metode K-Means dari awal (from scratch) pada dataset FIFA-20.
 
 ## Daftar Isi
 - [Tentang Proyek](#tentang-proyek)
